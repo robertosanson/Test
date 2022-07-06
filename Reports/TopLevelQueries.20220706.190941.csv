@@ -1,0 +1,5 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,FileName,LineNumber,LinesOfCode,HighestEWISeverity,ConversionStatus,EWIs,UDFsUsed,ConversionPercentage,EWIsNumber,ObjectDB,CharacterCount,CharacterConversionPercentage,LoCConversionPercentage
+8d13f297-6c9a-4fa0-baf4-f70c6b4941fe,SQL,2,INSERT,CLI_T12/Source_Code.sql,13,1,,Fully Converted,,,100%,0,,0,,
+8d13f297-6c9a-4fa0-baf4-f70c6b4941fe,SQL,3,INSERT,CLI_T12/Source_Code.sql,15,1,,Fully Converted,,,100%,0,,0,,
+8d13f297-6c9a-4fa0-baf4-f70c6b4941fe,SQL,4,INSERT,CLI_T12/Source_Code.sql,17,1,,Fully Converted,,,100%,0,,0,,
+8d13f297-6c9a-4fa0-baf4-f70c6b4941fe,SQL,5,INSERT,CLI_T12/Source_Code.sql,19,1,,Fully Converted,,,100%,0,,0,,
